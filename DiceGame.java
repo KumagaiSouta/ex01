@@ -12,8 +12,8 @@ class DiceGame{
         int num = a+b;
         System.out.println("Total value: "+num);
 
-	//        if(num<8) System.out.println("You lost");
-	//        else System.out.println("You won");
+        if(num<8) System.out.println("You lost");
+        else System.out.println("You won");
 
     }
 }
